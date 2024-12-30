@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88034030147",
+    "project_id": "bhopalcompany",
+    "storage_bucket": "bhopalcompany.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88034030147:android:2e9e0f5e17738a0667daf6",
+        "android_client_info": {
+          "package_name": "com.example.bloc_clean_coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT27YTwtfJM14mSgDsnOtuAm4TBCjYQOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
